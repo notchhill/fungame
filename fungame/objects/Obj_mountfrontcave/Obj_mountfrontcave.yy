@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"scriptObject",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_mountfrontcave",
+  "eventList":[],
   "managed":true,
-  "name":"scriptObject",
+  "name":"Obj_mountfrontcave",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"environment",
+    "path":"folders/Objects/environment.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_mountfrontcave",
+    "path":"sprites/spr_mountfrontcave/spr_mountfrontcave.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
